@@ -1,0 +1,21 @@
+#Login{
+    margin-left: 100px;
+    margin-top: 500px;
+}
+body{
+    background-image:url("OIP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading{
+    font-size: 350%;
+}
+#Dialog{
+    font-size: 200%;   
+}
+#Submit:hover{
+    color: black;
+}
+#Submit{
+    font-size: medium;
+}
